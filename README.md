@@ -1,4 +1,11 @@
 # Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+# Real-Time Stock Data Pipeline 
+
 
 ## Overview
 Built a serverless real-time data pipeline using AWS services to ingest, process, and visualize stock market data.
