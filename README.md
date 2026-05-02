@@ -1,7 +1,6 @@
 # Real-Time Stock Data Pipeline 
 # Real-Time Stock Data Pipeline 
 # Real-Time Stock Data Pipeline 
-# Real-Time Stock Data Pipeline 
 
 
 
