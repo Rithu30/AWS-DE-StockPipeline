@@ -2,7 +2,7 @@
 # AWS Serverless Sales Analytics Pipeline #
 # AWS Serverless Sales Analytics Pipeline #
 # AWS Serverless Sales Analytics Pipeline #
-# AWS Serverless Sales Analytics Pipeline #
+
 
 
 ## Overview
