@@ -1,8 +1,6 @@
 # Real-Time Stock Data Pipeline 
 # AWS Serverless Sales Analytics Pipeline #
 # AWS Serverless Sales Analytics Pipeline #
-# AWS Serverless Sales Analytics Pipeline #
-
 
 
 ## Overview
